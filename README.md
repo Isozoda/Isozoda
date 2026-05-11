@@ -1,38 +1,78 @@
 <h1 align="center">Hi 👋, I'm Iso Musoev</h1>
-<h3 align="center">Frontend Developer from Tajikistan 🇹🇯</h3>
+<h3 align="center">🚀 Frontend Developer from Tajikistan 🇹🇯</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Next.js+Developer;Frontend+Engineer;Always+learning+new+things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Next.js+Developer;Frontend+Engineer;Building+Modern+Web+Apps&center=true&width=500&height=45">
 </p>
 
 ---
 
-### 🚀 Tech Stack
+# 💫 About Me
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,postgres,prisma,git,vscode" />
-</p>
+💻 Passionate frontend developer focused on building modern, responsive, and user-friendly web applications.
+
+🚀 Currently working with:
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Prisma
+- PostgreSQL
+
+🌱 Always learning new technologies and improving my frontend architecture skills.
 
 ---
 
-### 📊 GitHub Stats
+# 🛠️ Tech Stack
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsozoda&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsozoda&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,postgres,prisma,git,vscode,figma" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+# 📊 GitHub Stats
 
-- 🏥 DocTime — Smart Healthcare Platform
-- 🍫 ChocoBerry — Business Management System
-- 📖 Smart Quran Bot — Telegram Quran Bot
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsozoda&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsozoda&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-### 📫 Contact Me
+# 🚀 Featured Projects
 
-- Telegram: @iso009
-- LinkedIn: linkedin.com/in/iso-musoev-78450740a
+### 🏥 DocTime
+Smart healthcare booking platform built with Next.js and modern dashboard architecture.
+
+### 🍫 ChocoBerry
+Modern business & management platform with beautiful UI/UX.
+
+### 📖 Smart Quran Bot
+Telegram bot for listening to Quran recitations with different Qaris.
+
+---
+
+# 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:ibrohimjunusov@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/lsozoda">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://t.me/iso009">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/iso-musoev-78450740a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Code. Build. Improve. Repeat."</i>
+</p>
