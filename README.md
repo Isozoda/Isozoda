@@ -14,26 +14,26 @@
 
 ### 👨‍💻 Who Am I?
 
-🚀 Passionate **Frontend Developer** focused on building  
-modern, responsive, and high-performance web applications.
+🚀 Passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications.
 
-✨ I love creating:
-- Beautiful UI/UX
-- Premium dashboards
-- Modern SaaS interfaces
-- Responsive websites
-- Smooth animations & interactions
+✨ I enjoy creating:
+- Premium UI/UX
+- Modern dashboards
+- Responsive interfaces
+- Beautiful animations
+- Clean frontend architecture
 
 🌍 Based in **Dushanbe, Tajikistan 🇹🇯**
 
 💡 Currently improving my skills in:
+- React Ecosystem
+- Next.js Applications
+- TypeScript
 - Frontend Architecture
-- Scalable Applications
-- Full-stack Development
-- Modern Design Systems
+- Modern UI Systems
 
 ⚡ Goal:
-Build products that feel modern, clean, and world-class.
+Build scalable and world-class web experiences.
 
 <br clear="right"/>
 
@@ -45,19 +45,19 @@ Build products that feel modern, clean, and world-class.
 
 ## 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
 ---
 
 ## ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,firebase,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma" />
 
 ---
 
 ## 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
 
 </div>
 
@@ -87,18 +87,12 @@ Build products that feel modern, clean, and world-class.
 
 ## 🏥 DocTime
 
-Modern healthcare booking platform built with:
-
-- Next.js
-- TypeScript
-- Prisma
-- PostgreSQL
-- Modern Dashboard UI
+Smart healthcare booking platform built with modern technologies.
 
 ✨ Features:
 - Doctor appointments
-- Authentication
-- Admin dashboard
+- Authentication system
+- Dashboard architecture
 - Responsive UI
 - Multi-language support
 
@@ -108,14 +102,14 @@ Modern healthcare booking platform built with:
 
 ## 🍫 ChocoBerry
 
-Business management & analytics platform.
+Modern business management & analytics platform.
 
 ✨ Features:
 - Employee management
 - Attendance system
 - Payroll dashboard
-- Beautiful UI/UX
-- Dark modern design
+- Dark modern UI
+- Beautiful UX
 
 </td>
 </tr>
@@ -128,10 +122,10 @@ Business management & analytics platform.
 Telegram bot for listening to Quran recitations.
 
 ✨ Features:
-- Choose Surahs
-- Select Qaris
-- Fast Telegram experience
-- Beautiful Islamic interface
+- Select Surahs
+- Choose Qaris
+- Fast Telegram integration
+- Smooth user experience
 
 </td>
 
@@ -139,13 +133,13 @@ Telegram bot for listening to Quran recitations.
 
 ## 🤖 AI Job Platform
 
-Modern AI-powered job & freelance platform.
+Modern AI-powered freelance & job platform.
 
 ✨ Features:
-- Smart UI
+- Responsive UI
 - Modern architecture
-- Responsive design
 - AI integrations
+- Premium design system
 
 </td>
 </tr>
