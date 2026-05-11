@@ -39,8 +39,6 @@ Build scalable and world-class web experiences.
 
 ---
 
-# 🚀 Tech Stack
-
 ## 🧩 Technologies I Use and Learn:
 
 ### 🌐 Frontend
