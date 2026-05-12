@@ -39,50 +39,42 @@ Build scalable and world-class web experiences.
 
 ---
 
-# 🧠 Current Focus
-
-<div align="center">
-
-| 🚀 Learning | ⚡ Building | 🎯 Goal |
-|---|---|---|
-| Next.js Ecosystem | Modern SaaS Apps | World-Class Developer |
-| TypeScript | Premium Dashboards | Freelance Career |
-| Frontend Architecture | Healthcare Platforms | Startup Founder |
-
-</div>
-
----
-
-## 🧩 Technologies I Use and Learn
+## 🧩 Technologies I Use and Learn:
 
 ### 🌐 Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
-### 🎨 Styling & UI
+### 🎨 Styling
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,materialui" />
-</p>
-
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Antd-1677FF?style=for-the-badge&logo=antdesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 
 ### ⚙️ State & Data
 
-<p align="center">
+<p>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 </p>
 
 ### 🛠️ Dev Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
@@ -103,11 +95,11 @@ Build scalable and world-class web experiences.
 
 ---
 
-# 🔥 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 </div>
 
@@ -132,9 +124,6 @@ Smart healthcare booking platform built with modern technologies.
 - Responsive UI
 - Multi-language support
 
-🛠 Stack:
-`Next.js` `TypeScript` `Prisma` `PostgreSQL`
-
 </td>
 
 <td width="50%">
@@ -149,9 +138,6 @@ Modern business management & analytics platform.
 - Payroll dashboard
 - Dark modern UI
 - Beautiful UX
-
-🛠 Stack:
-`React` `Redux` `Node.js` `PostgreSQL`
 
 </td>
 </tr>
@@ -169,9 +155,6 @@ Telegram bot for listening to Quran recitations.
 - Fast Telegram integration
 - Smooth user experience
 
-🛠 Stack:
-`Node.js` `Telegram API` `JavaScript`
-
 </td>
 
 <td width="50%">
@@ -186,25 +169,9 @@ Modern AI-powered freelance & job platform.
 - AI integrations
 - Premium design system
 
-🛠 Stack:
-`Next.js` `AI APIs` `TailwindCSS`
-
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-# 🌌 Modern Developer Setup
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
-<img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terminal-Git%20Bash-black?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hosting-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </div>
 
@@ -234,29 +201,21 @@ Modern AI-powered freelance & job platform.
 
 ---
 
-# ☄️ Visitor Counter
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Isozoda&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
+## ⚡ Developer Quote
+
+> *"Code. Build. Improve. Repeat."*
+
+<img src="https://komarev.com/ghpvc/?username=Isozoda&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ⚡ Developer Quote
-
 <div align="center">
 
-> “Code. Build. Improve. Repeat.”
-
-</div>
-
----
-
-# 💜 Thanks for Visiting
-
-<div align="center">
+### 💜 Thanks for visiting my profile
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6a00ff,100:00d4ff"/>
 
